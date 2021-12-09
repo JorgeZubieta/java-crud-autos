@@ -157,7 +157,6 @@ public class auto {
                 System.out.println("----------------------------------------");
 
             }
-            System.out.println("----------------------------------------");
             System.out.println("FIN DE CONSULTA");
             System.out.println("----------------------------------------");
 
@@ -254,7 +253,6 @@ public class auto {
                 //para insertar. Vamos a tomar l qyerry y ejecutar el sql de la linea 88!
                 querry.execute(sql);
                 //mensaje de eliminar
-                System.out.println("----------------------------------------");
                 System.out.println("Patente eliminada correctamente!");
                 System.out.println("----------------------------------------");                  
                 }
